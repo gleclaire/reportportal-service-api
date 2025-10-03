@@ -1,4 +1,4 @@
 [submodule "api-registry"]
 	path = api-registry
-	url = https://github.com/reportportal/api-registry
+	url = https://github.com/gleclaire/reportportal-api-registry
 	branch = feature/organizations
